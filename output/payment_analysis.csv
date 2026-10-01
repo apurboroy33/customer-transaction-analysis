@@ -1,0 +1,5 @@
+payment_method,total_transactions,total_revenue,average_transaction_value
+Credit Card,2559,17837317.28,6970.424885
+UPI,2464,17157177.06,6963.140041
+Cash,2492,17132942.11,6875.177412
+Debit Card,2485,17104727.66,6883.190205
