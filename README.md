@@ -61,9 +61,18 @@ customer-transaction-analysis/
 
 ## How to Run
 
+### If you wish to generate data, do this:
 ```bash
 pip install -r requirements.txt
 python src/generate_data.py
+python src/database.py
+python src/analysis.py
+```
+
+### If you have pre-requisite data, do this: 
+(Move the data to data/ folder first)
+```bash
+pip install -r requirements.txt
 python src/database.py
 python src/analysis.py
 ```
